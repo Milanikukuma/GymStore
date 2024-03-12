@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GymEquipmentsStore"
+             xmlns:models="clr-namespace:GymEquipmentsStore.Models"
+             x:Class="GymEquipmentsStore.MainPage" x:DataType="local:MainPage">
+
+
+    <StackLayout Padding="30,0" Spacing="25">
+        <Label
+                Text="Gym Equipment List"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+
+        <StackLayout Padding="10" BackgroundColor="#eee">
+            <Label Text="{Binding Equipment.Name}" FontSize="Medium" />
+            <Label Text="{Binding Equipment.Brand}" FontSize="Small" />
+            <Label Text="{Binding Equipment.Price, StringFormat='Price: {0:C}'}" FontSize="Small" />
+            <Label Text="{Binding Equipment.StockQuantity, StringFormat='Stock Quantity: {0}'}" FontSize="Small" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

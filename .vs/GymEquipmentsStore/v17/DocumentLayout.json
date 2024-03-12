@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\netprojects\\GymEquipmentsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\gymequipmentsstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:gymequipmentsstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\services\\gymstorelocaldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:services\\gymstorelocaldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|c:\\netprojects\\gymequipmentsstore\\gymequipmentsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9F2A164-7C00-4918-8B83-631E107F612E}|GymEquipmentsStore.csproj|solutionrelative:gymequipmentsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:54:29.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymEquipmentsStore",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\GymEquipmentsStore.csproj",
+              "RelativeDocumentMoniker": "GymEquipmentsStore.csproj",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\GymEquipmentsStore.csproj",
+              "RelativeToolTip": "GymEquipmentsStore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T09:17:51.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T08:02:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GymStoreLocalDatabase.cs",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\Services\\GymStoreLocalDatabase.cs",
+              "RelativeDocumentMoniker": "Services\\GymStoreLocalDatabase.cs",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\Services\\GymStoreLocalDatabase.cs",
+              "RelativeToolTip": "Services\\GymStoreLocalDatabase.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:56:22.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:27:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:53:02.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:13:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T10:50:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GymEquipmentsStore.csproj",
+              "DocumentMoniker": "C:\\netprojects\\GymEquipmentsStore\\GymEquipmentsStore.csproj",
+              "RelativeDocumentMoniker": "GymEquipmentsStore.csproj",
+              "ToolTip": "C:\\netprojects\\GymEquipmentsStore\\GymEquipmentsStore.csproj",
+              "RelativeToolTip": "GymEquipmentsStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T08:53:22.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
